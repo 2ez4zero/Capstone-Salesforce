@@ -7,3 +7,9 @@ Salesforce Data Management Object
 
 Salesforce Data Management Tabs
 [Watch the Video](https://drive.google.com/file/d/1oMYAgBGS6UxQOqoX_ZmS9xn1b79jsHal/view?usp=drive_link)
+
+Salesforce Data Management App Manger
+[Watch the Video](https://drive.google.com/file/d/1GwePfilgpTSZIrIkpVeLzVfqft1LbdPE/view?usp=drive_link)
+
+
+
