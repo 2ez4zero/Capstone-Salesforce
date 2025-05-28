@@ -11,5 +11,8 @@ Salesforce Data Management Tabs
 Salesforce Data Management App Manger
 [Watch the Video](https://drive.google.com/file/d/1GwePfilgpTSZIrIkpVeLzVfqft1LbdPE/view?usp=drive_link)
 
+Salesforce Data Management Fields
+[Watch the Video](https://drive.google.com/file/d/1jA_IpaoBNVZmUNybXDCvOE5Kf_fl1TIR/view?usp=drive_link)
+
 
 
