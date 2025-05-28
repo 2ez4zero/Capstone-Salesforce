@@ -32,11 +32,11 @@ Salesforce Data Permission Set
 Salesforce Emails Template
 [Watch the Video](https://drive.google.com/file/d/1XkcL5FNuKysBv63bxQnALVz3csY7yj-o/view?usp=drive_link)
 
-Salesforce Data security Profiles
-[Watch the Video]()
+Salesforce Flows
+[Watch the Video](https://drive.google.com/file/d/1EaCo_fJ4QXeN0wrFv9JIO9GW1eCuD1mE/view?usp=drive_link)
 
-Salesforce Data security Profiles
-[Watch the Video]()
+Salesforce Automation Using Apex
+[Watch the Video](https://drive.google.com/file/d/1xp_nwA6iKITdco5KF1b9iraTWd__thLi/view?usp=drive_link)
 
-Salesforce Data security Profiles
-[Watch the Video]()
+Salesforce Batch Jobs
+[Watch the Video](https://drive.google.com/file/d/1cBRZ7dpfix169k0iJD-E2Mjaifc9cDuz/view?usp=drive_link)
