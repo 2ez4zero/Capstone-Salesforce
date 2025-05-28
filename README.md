@@ -29,12 +29,14 @@ Salesforce Data Users
 Salesforce Data Permission Set
 [Watch the Video](https://drive.google.com/file/d/1XmO_JDRmVLsOQ9V0T6P4G2zk1haZ-1zf/view?usp=sharing)
 
-Salesforce Data security Profiles
-[Watch the Video](https://drive.google.com/file/d/1m7UuYdqncxCNrKRg0T_J_PpyjV-rhH-B/view?usp=drive_link)
+Salesforce Emails Template
+[Watch the Video](https://drive.google.com/file/d/1XkcL5FNuKysBv63bxQnALVz3csY7yj-o/view?usp=drive_link)
 
 Salesforce Data security Profiles
 [Watch the Video]()
 
+Salesforce Data security Profiles
+[Watch the Video]()
 
-
-
+Salesforce Data security Profiles
+[Watch the Video]()
