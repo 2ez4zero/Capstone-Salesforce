@@ -14,5 +14,9 @@ Salesforce Data Management App Manger
 Salesforce Data Management Fields
 [Watch the Video](https://drive.google.com/file/d/1jA_IpaoBNVZmUNybXDCvOE5Kf_fl1TIR/view?usp=drive_link)
 
+Salesforce Confoguration
+[Watch the Video](https://drive.google.com/file/d/1OtELRwVVnW1iAzHhkvtk7_OT_Ts3nwo4/view?usp=drive_link)
+
+
 
 
